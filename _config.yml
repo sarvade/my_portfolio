@@ -3,7 +3,7 @@ description: Hi There, welcome to my portfolio.
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "http://www.saisarvade.me/" # change this to the base hostname & protocol for your site
+url: "http://www.saisarvade.me" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
