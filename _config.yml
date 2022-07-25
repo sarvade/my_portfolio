@@ -16,7 +16,7 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: saisarvade
 image: /thumbnail-jumbo.png
 twitter:
   username: saisarvade
@@ -25,6 +25,6 @@ plugins:
   - jekyll-target-blank
 
 target-blank:
-    rel: nofollow
+    rel: noopener
 
 header_page_refs: ['now', 'about', 'contact']
