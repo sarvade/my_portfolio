@@ -1,15 +1,49 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: My goal is to optimize 
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+## Education
+
+**Space Studies / Master's degree**
+Rice University
+Aug. 2019 - May. 2021
+
+**Aerospace Engineering / Bachelor's degree**
+Amrita Vishwa Vidyapeetham 
+Aug. 2015 - May. 2019
+
+
+## Skills
+
+Machine Learning/AI
+Automation
+Clould Technologies
+Data Analytics
+Data Visualization
+Programming
+Mechanical Designs
+Problem Solving
+Research in AI/Space Exploration/Quantum Physics
+Behavior Analysis
+
+
+## Hobbies
+
+Video Games
+Science-Fiction Books
+Interesting Podcasts (StarTalk, Lex Fridman, Data Skeptic etc...)
+Occasionally Blogs at: [Bad Boy Of Physics](https://badboyofphysics.blogspot.com/)
+
+
+
+
+*You can connect with me via [LinkedIn](https://www.linkedin.com/in/sankeerthsarvade/)*
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
