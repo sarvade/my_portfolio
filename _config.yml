@@ -1,5 +1,5 @@
 title: Sai Sankeerth Sarvade
-description: Hi There, welcome to my portfolio.
+description: Hi there, welcome to my portfolio.
 show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -16,7 +16,7 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: saisarvade
+author: sai sarvade
 image: /thumbnail-jumbo.png
 twitter:
   username: saisarvade
