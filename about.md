@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: My goal is to optimize and automate ~~most~~all of the things in the world.
+tagline: My goal is to optimize and automate most of the things in the world.
 permalink: /about.html
 ref: about
 order: 0
@@ -32,6 +32,7 @@ order: 0
 - Problem Solving
 - Research in AI/Space Exploration/Quantum Physics
 - Behavior Analysis
+
 
 ---
 
