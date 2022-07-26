@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline: New connections open the door to new opportunities
 ref: contact
 order: 1
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third party service.
+## Hi there don't be shy, feel free to contact me
 
-she says &lt;h1> is large
+If you are interested in cooperation or would like to discuss anything, please contact me.
+
+*You can involve me in your data science project for optimization or discussing state-of-the-art ideas as a consultant by emailing to sankeerth.sarvade(at)yahoo.com*
 
 
+---
 [Go to the Home Page]({{ '/' | absolute_url }})
