@@ -39,6 +39,7 @@ order: 0
 ## Hobbies
 
 - Video Games
+- Chess
 - Science-Fiction Books
 - Interesting Podcasts (StarTalk, Lex Fridman, Data Skeptic etc...)
 - Occasionally Blogs at: [Bad Boy Of Physics](https://badboyofphysics.blogspot.com/)
