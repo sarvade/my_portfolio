@@ -7,6 +7,6 @@ ref: now
 order: 2
 ---
 
-### This page will update soon :XD
+### Some bots are working on this page now, it will update soon :XD
 
 [Go to the Home Page]({{ '/' | absolute_url }})
