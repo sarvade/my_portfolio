@@ -5,9 +5,11 @@ tagline: New connections open the door to new opportunities.
 ref: contact
 order: 1
 ---
+---
 
-<img align="center" width="50%" height='50%' src="/assets/css/IMG_5050.jpg">
+<img align="center" src="/assets/css/IMG_5050.jpg">
 
+---
 
 ## Hi there -> don't be shy, feel free to contact me :)
 
