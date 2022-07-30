@@ -7,6 +7,8 @@ ref: about
 order: 0
 ---
 
+#### There's 1 in a billion chance that the following sentence is untrue. I'm NPC made by higher-dimensional simulators, my superpowers are in-built aerospace engineering skills and passonate about arificial general intellence and machine learning.
+
 ---
 
 <img align="center" width="50%" height='50%' src="/assets/css/IMG_5052.png">
