@@ -5,7 +5,7 @@ tagline: What I'm doing now?
 
 ---
 
-#### *One of the things I quickly realized is sometimes you have to gather, organize, and clean your own data.*
+#### "*One of the things I quickly realized is sometimes you have to gather, organize, and clean your own data.*"
 
 ---
 
