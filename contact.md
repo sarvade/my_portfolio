@@ -11,7 +11,7 @@ order: 1
 
 ---
 
-## Hi there -> don't be shy, feel free to contact me :)
+## Hi there, don't be shy, feel free to contact me :)
 
 If you are interested in cooperation or would like to discuss anything, please contact me.
 
