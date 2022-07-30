@@ -47,7 +47,7 @@ order: 0
 - Chess
 - Science-Fiction Books
 - Interesting Podcasts (StarTalk, Lex Fridman, Data Skeptic etc...)
-- Occasionally Blogs at: [Bad Boy Of Physics](https://badboyofphysics.blogspot.com/)
+- Occasionally Blogs at Bad Boy Of Physics blogspot: [Bad Boy Of Physics](https://badboyofphysics.blogspot.com/)
 
 
 ---
