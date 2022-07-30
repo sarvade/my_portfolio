@@ -2,39 +2,26 @@
 
 Hi There
 
+#### "*One of the things I quickly realized is sometimes you have to gather, organize, and clean your own data.*"
 
-You can use the [editor on GitHub](https://github.com/sarvade/sarvade.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I am experienced in AI applications, machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I care less about doing fancy modeling, but care more about working with interesting data. That's why I use **webscraping** - which is a great way to get interesting data.
 
-```markdown
-Syntax highlighted code block
+Here are some nuggets of information to build great projects:
 
-# Header 1
-## Header 2
-### Header 3
+- Use Real Data
+- Scrape Your Own Data
+- Ask for Data
+- Use Publicly Accessible APIs
+- Pick Interesting Data Over Everything Else
+- Pick Something You’re Curious About, Not Something You Hope Will Be Impressive
+- Pick an Analysis That is Interesting Regardless of What You Find
+- Perfect the Visuals
+- Make Your Data Interactive (Optional)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sarvade/sarvade.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
