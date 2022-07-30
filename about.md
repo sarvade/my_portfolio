@@ -7,6 +7,13 @@ ref: about
 order: 0
 ---
 
+<p align="center">
+  <img src="/assets/css/IMG_5052.png" />
+</p>
+
+<img align="center" width="33%" src="/assets/css/IMG_5052.png">
+
+
 
 ## Education
 
