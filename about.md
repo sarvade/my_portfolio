@@ -7,7 +7,7 @@ ref: about
 order: 0
 ---
 
-#### There is 1 in a billion chance that the following sentence is untrue. I'm NPC made by higher-dimensional simulators, my superpowers are in-built aerospace engineering skills and passonate about arificial general intellence and machine learning.
+#### There is 1 in a billion chance that the following sentence is untrue. I'm NPC made by higher-dimensional simulators, my superpowers are in-built aerospace engineering skills and passionate about artificial general intelligence and machine learning.
 
 ---
 
