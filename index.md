@@ -5,8 +5,10 @@ tagline: What I'm doing now?
 
 ---
 
-#### Hello and welcome to my portfolio website! I am an aerospace engineer with a passion for solving complex problems using the power of artificial intelligence. My goal is to become the best in Python, Machine Learning and Deep Learning, and I aim to achieve this through a series of AI projects that I will build and showcase on this website.
+#### My passion for AI has led me on a journey to explore Artificial General Intelligence, which represents one of the most exciting and promising areas in computer science.
 
-In addition, I will be posting regular blogs on various topics related to data science, AI, and machine learning, to share my knowledge and experience with others interested in this field.
+This website exists to share my thoughts and insights on AI, machine learning, and deep learning, as well as aerospace engineering. My plan is to post a new blog once a week on a topic that I find particularly interesting or that I believe will be of relevance to my readers.
 
-With my background in aerospace and experience in data science, I am confident that I can apply my unique skillset to build innovative solutions that can make a difference in the world. Thank you for visiting my website, and please feel free to get in touch if you have any questions or would like to collaborate on a project.
+As someone with both an academic and professional background in aerospace engineering and machine learning, I've always been fascinated by the intersection between technology and science, and I believe that AI represents a powerful tool in advancing these disciplines even further.
+
+I hope that through this website, you will find the same excitement and inspiration that drives my own passion for AI and aerospace engineering. Please take a moment to explore my work, and do not hesitate to contact me if you have any questions or would like to discuss a collaboration.
