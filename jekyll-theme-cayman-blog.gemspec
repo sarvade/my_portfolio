@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-cayman-blog"
   s.version       = "0.0.9"
   s.license       = "CC0-1.0"
-  s.authors       = ["Sai Sarvade"]
+  s.authors       = ["Sai S Sarvade"]
   s.email         = ["sankeerth.sarvade@gmail.com"]
   s.homepage      = "https://github.com/sarvade/my_portfolio"
   s.summary       = "Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages. Based on Cayman theme."
