@@ -5,7 +5,7 @@ tagline: What I'm doing now?
 
 ---
 
-#### My passion for AI has led me on a journey to explore Artificial General Intelligence, which represents one of the most exciting and promising areas in computer science.
+#### Hello and Namaste, my passion for AI has led me on a journey to explore Artificial General Intelligence, which represents one of the most exciting and promising areas in computer science.
 
 This website exists to share my thoughts and insights on AI, machine learning, and deep learning, as well as aerospace engineering. My plan is to post a new blog once a week on a topic that I find particularly interesting or that I believe will be of relevance to my readers.
 
